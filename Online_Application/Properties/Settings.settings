@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Online_Application.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Online_Application_CourseListRef_CourseList_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://agileapp.agilebiz.co.ke:10001/schoolsystem/WS/Arthur%20Solutions/Page/CourseList</Value>
+    </Setting>
+    <Setting Name="Online_Application_ApplicantFormRef_ApplicantForm_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://agileapp.agilebiz.co.ke:10001/schoolsystem/WS/Arthur%20Solutions/Page/ApplicantForm</Value>
+    </Setting>
+    <Setting Name="Online_Application_ApplicantListRef_ApplicantList_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://agileapp.agilebiz.co.ke:10001/schoolsystem/WS/Arthur%20Solutions/Page/ApplicantList</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
